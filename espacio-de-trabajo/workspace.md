@@ -6,6 +6,8 @@ No hay una "mejor forma" de hacer esto, tienes que encontrar una organización q
   <img src=https://cdn.discordapp.com/attachments/1032544028115349564/1079779233276108880/files.png width=40%>
 </p>
 
+Si estás usando codepen solo tienes que escribir en el cuadro de HTML así que no te tienes que preocupar de organizar carpetas.
+
 Ahora sí, vamos a la parte divertida.
 
-## [Estructura HTML]()
+## [Estructura HTML](https://github.com/KomradeFMX/La-HTML-guia/blob/main/desarrollo/intro.md)
