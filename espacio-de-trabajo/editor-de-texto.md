@@ -23,4 +23,4 @@ Si quieres usar alguna aplicación móvil busca por tu proveedor de aplicaciones
 
 Programar desde el móvil no es una buena experiencia y te recomiendo mucho pasarte a ordenador en cuanto puedas, pero si no te queda otra, suerte.
 
-## *[Workspace >](https://github.com/KomradeFMX/La-HTML-guia/edit/main/espacio-de-trabajo/workspace.md)*
+## [Workspace](https://github.com/KomradeFMX/La-HTML-guia/edit/main/espacio-de-trabajo/workspace.md)
